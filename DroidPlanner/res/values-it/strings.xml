@@ -18,7 +18,7 @@
     <string name="menu_send_to_apm">Invia a APM</string>
     <string name="menu_follow_me">Segui</string>
     <string name="menu_record_me">Registra</string>
-    <string name="menu_clear">Annulla WPs</string>
+    <string name="menu_clear">Cancella WPs</string>
     <string name="menu_zoom">Zoom</string>
     <string name="file_saved">File Salvato</string>
     <string name="no_waypoint_files">No Waypoint Files</string>
@@ -26,7 +26,7 @@
     <string name="select_file_to_open">Seleziona il file da aprire:</string>
     <string name="error_when_saving">Errore durante il salvataggio</string>
     <string name="error_when_opening_file">Errore in apertura file</string>
-    <string name="waypoint_altitude">Altitudine</string>
+    <string name="waypoint_altitude">Altezza</string>
     <string name="default_alt">Modifica Alt.</string>
     <string name="menu_open_kmz">Apri KMZ</string>
     <string name="menu_add_polygon">Aggiungi Poligono</string>
@@ -169,12 +169,12 @@
     <string name="rowheader_wp_no">WP#</string>
     <string name="rowheader_wp_delta">∆ WP</string>
     <string name="rowheader_wp_desc">Descrizione</string>
-    <string name="dialog_box_title_altitude">Quota</string>
+    <string name="dialog_box_title_altitude">Altezza</string>
     <string name="dialog_box_btn_txt_cancel">Cancel</string>
     <string name="dialog_box_btn_txt_ok">Ok</string>
     <string name="exception_draw_polygon">Disegna un poligono/WPTs</string>
     <string name="exception_draw_2_more_polygon_points">Disegna almeno 2 ulteriori punti del poligono</string>
     <string name="exception_draw_1_more_polygon_points">Disegna almeno 1 ulteriore punto del poligono</string>
-    <string name="mission_is_too_lengthy">Mission troppo lunga</string>   
+    <string name="mission_is_too_lengthy">Missione troppo lunga</string>   
     
 </resources>
